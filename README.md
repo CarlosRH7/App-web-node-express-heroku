@@ -35,4 +35,4 @@ Iniciamos el servidor:
 npm start
 ```
 
-Para acceder a la aplicación al servidor local, vaya a la URL [http://localhost:3000/](http://localhost:3000/)
+Para acceder a la aplicación al servidor local vaya a la URL [http://localhost:3000/](http://localhost:3000/)
