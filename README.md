@@ -1,6 +1,6 @@
 ## Aplicación web con Node, Express, HBS, Bootstrap
 
-Esta aplicación web está configurada para realizar el deploy en un servidor heroku.
+Aplicación web configurada para realizar el deploy en un servidor heroku.
 
 ### Requerimientos
 
